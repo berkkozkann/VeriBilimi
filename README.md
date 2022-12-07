@@ -1,0 +1,2 @@
+# VeriBilimi
+VeriBilimi Blog
